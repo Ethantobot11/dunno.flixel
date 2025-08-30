@@ -1,5 +1,4 @@
-package flixel.sound;
-
+package flixel.system;
 import flixel.FlxBasic;
 import flixel.FlxG;
 import flixel.math.FlxMath;
